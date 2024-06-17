@@ -152,3 +152,12 @@ button {
 .hp {
     color: white;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0C1844;
+    color: white;
+    font-size: 18px;
+    height: 100px;
+}
