@@ -76,3 +76,15 @@ button {
     padding: 10px 30px;
     text-align: center;
 }
+
+.middle-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
