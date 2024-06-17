@@ -103,3 +103,52 @@ button {
     text-align: center;
     margin-bottom: 50px;
 }
+
+.quote-cont {
+    background-color: lightgray;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quote {
+    width: 550px;
+    font-size: 25px;
+    font-weight: 200;
+}
+.name {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 500;
+}
+.last-cont {
+    display: flex;
+    background-color: white;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-in {
+    background-color: #3AA6B9;
+    height: 120px;
+    width: 900px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button2 {
+    color: #E5E7EB;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+.button2:hover {
+    color: #1F2937;
+    border: 3px solid #1F2937;
+}
+
+.hp {
+    color: white;
+}
