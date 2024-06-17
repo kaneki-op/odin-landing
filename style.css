@@ -50,7 +50,7 @@ a:hover {
     align-items: center;
 }
 
-img {
+.img1 {
     padding-right: 110px;
     padding-top: 30px;
 }
@@ -81,10 +81,9 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 300px;
 }
 
 .image-list {
     display: flex;
-    justify-content: center;
-    align-items: center;
 }
