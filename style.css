@@ -9,7 +9,15 @@
     height: 300px;
 }
 .logo {
-    
+    background-color: #3AA6B9;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 10px;
+    padding: 7px;
+}
+.logo:hover {
+    color: black;
 }
 
 .top {
@@ -19,13 +27,18 @@
 .links {
     display: flex;
     gap: 20px;
-    align-items: center;
+    margin-top: 40px;
+    margin-right: 220px;
 }
 li {
     list-style-type: none;
+    font-size: 20px;
 }
 
 a {
     text-decoration: none;
     color: #E5E7EB;
+}
+a:hover {
+    color: black;
 }
